@@ -1,4 +1,6 @@
 <h1 align = "center">MANGESH PURI</h1>
+
+
 ### Currently Developing Skills in
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=991AF7&size=25&lines=React+JS;Typescript;Node+JS;Graph+QL;Docker;Kubernetes;AWS)](https://github.com/13Mangesh)
 
